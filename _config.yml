@@ -10,7 +10,7 @@ license:
   holder: Open Knowledge Foundation Deutschland
   license: License CC BY-SA 3.0
 mainpage:
-  url: /okf-pub
+  url: https://bolitto.github.io/okf-pub/
   pdf: /fake/link/to.pdf
   label: Go back to your actual website
   year: 2018
